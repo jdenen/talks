@@ -3,7 +3,7 @@ Presentations and the code that supports them.
 ** Write in org-mode
    Use [[https://github.com/yjwen/org-reveal][org-reveal]] to develop a presentation.
 ** Export HTML
-   Inside a presentation org file, use =, e e R R= or =C-c C-e R R= to export to HTML.
+   Inside a presentation org file, use =C-c C-e R R= to export to HTML.
 ** Build and run server
    Use =docker-compose= to build the presentation image and spin up a container. The command 
    requires a =presentation= environment variable set to the HTML file you want to serve.
