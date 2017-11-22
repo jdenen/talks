@@ -12,4 +12,4 @@ Presentations and the code that supports them.
      presentation=what_is_ci.html docker-compose up -d --build
    #+END_SRC
 ** Talk
-   Visit =localhost:8000= to give the presentation. Use =s= page to display the speaker notes page.
+   Visit =localhost:8000= to give the presentation. Use =s= to display the speaker notes page.
